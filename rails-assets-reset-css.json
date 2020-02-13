@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-reset-css",
+  "downloads": null,
+  "version": "4.0.1",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "An unmodified copy of Eric Meyer's CSS reset.",
+  
+  "licenses": "PUBLIC DOMAIN (UNLICENSED)",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://meyerweb.com/eric/tools/css/reset",
+  "gem_uri": null,
+  "homepage_uri": "http://meyerweb.com/eric/tools/css/reset",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://meyerweb.com/eric/tools/css/reset",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
